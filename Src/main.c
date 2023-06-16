@@ -164,6 +164,7 @@
        -fix low voltage cuttoff timeout
 *1.94  - Add selectable input types
 *1.95  - reduce timeout to 0.5 seconds when armed
+*1.96  - add KrisESC SETUP AS GEN_128K
 */
 
 #include <stdint.h>
@@ -187,7 +188,7 @@
 #endif
 
 #define VERSION_MAJOR 1
-#define VERSION_MINOR 95
+#define VERSION_MINOR 96
 
 //firmware build options !! fixed speed and duty cycle modes are not to be used with sinusoidal startup !!
 
