@@ -310,12 +310,12 @@ define  DT120_G071
 
 
 #ifdef  GEN_128K_G071
-#define FILE_NAME				"GEN_128K_G071"
+#define FILE_NAME				"GEN_128K_G071_KrisESC"
 #define FIRMWARE_NAME  			"G071 KrisESC "
 #define DEAD_TIME               60
-#define MILLIVOLT_PER_AMP       10
+#define MILLIVOLT_PER_AMP       100
 #define CURRENT_OFFSET          0
-#define TARGET_VOLTAGE_DIVIDER  	110
+#define TARGET_VOLTAGE_DIVIDER  110
 #define HARDWARE_GROUP_G0_A
 #define USE_SERIAL_TELEMETRY
 #endif
