@@ -26,7 +26,8 @@
 //#define PWM_ENABLE_G071
 //#define OPEN_DRAIN_G071
 //#define OPEN_DRAIN_B_G071
-define  DT120_G071
+//define  DT120_G071
+define GEN_128K_G071
 #endif
 
 //GLOBAL
